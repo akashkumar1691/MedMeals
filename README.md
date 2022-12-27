@@ -4,9 +4,6 @@
 
 **Group Members:** Shefali Bhatia, Priya Jindal, VandanaKeshavamurthy, Akash Kumar
 
-**Contributions:** Each member contributed to an equalpercentage of the work (25%). Priya and
-Vandana primarily worked on the implementation of the application. Akash and Shefali contributed to
-app development and wrote the report.
 
 **Project Title:** MedMeals
 
