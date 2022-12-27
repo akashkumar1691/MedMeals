@@ -1,5 +1,3 @@
-# Design 07: Interactive Prototype
-
 **Group 14:** Mobile Medics
 
 **Group Members:** Shefali Bhatia, Priya Jindal, VandanaKeshavamurthy, Akash Kumar
