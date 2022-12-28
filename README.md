@@ -1,6 +1,6 @@
 **Group:** Mobile Medics
 
-**Group Members:** Shefali Bhatia, Priya Jindal, Vandana Keshavamurthy, Akash Kumar
+**Group Members:** Akash Kumar, Shefali Bhatia, Priya Jindal, Vandana Keshavamurthy
 
 
 **Project Title:** MedMeals
