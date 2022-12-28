@@ -244,7 +244,7 @@ Iconify plugin and Figma Health Icons plugin as the source of icons for our app.
 
 ## Prototype video
 
-Link to video:https://youtu.be/X4cFdl2NxU
+Link to video: https://youtu.be/qSzP7uCPSOE
 
 
 
