@@ -62,9 +62,7 @@ physicians, categorized by the name of the doctor that completed their diagnosis
        the same color, users were unclear whether or not the icons corresponded to the page they
        were on.
 
-```
-Before (Figma) After (Application)
-```
+
  <p><img class="img-responsive center-block" src="report/figure1.PNG" alt="figure1"></p>
 
 - Change: We display a compiled list of all foods to avoid rather than groupings of foods to avoid
@@ -74,9 +72,7 @@ Before (Figma) After (Application)
     the distinct foods to avoid is more informative to the user.
 
 
-```
-Before (Figma) After (Application)
-```
+
  <p><img class="img-responsive center-block" src="report/figure2.PNG" alt="figure2"></p>
  
 - Change: The pages for the doctor form are labeled with “page 1 of 2” or “page 2 of 2” to
@@ -84,9 +80,7 @@ Before (Figma) After (Application)
     Rationale: Users were unsure whether the two pages were for the doctor form since they
     lacked any sort of labeling or indication.
 
-```
-Before (Figma) After (Application)
-```
+
  <p><img class="img-responsive center-block" src="report/figure3.PNG" alt="figure3"></p>
  
 2. Changes made for maintaining consistency
@@ -96,9 +90,7 @@ Before (Figma) After (Application)
        portal even when navigating across different pages in the patient portal.
 
 
-```
-Before (Figma) After (Application)
-```
+
  <p><img class="img-responsive center-block" src="report/figure4.PNG" alt="figure4"></p>
  
 - Change: A back button is present at the top right corner of all pages in the app.
@@ -110,9 +102,7 @@ Before (Figma) After (Application)
     out, the doctor can click the back button on every page they encounter until they reach the
     Doctor Portal Homepage then start the process from scratch.
 
-```
-Before (Figma) After (Application)
-```
+
  <p><img class="img-responsive center-block" src="report/figure5.PNG" alt="figure5"></p>
 
 ### Sketches for unimplemented portions of the interface:
@@ -136,9 +126,7 @@ a. Account Information Page:
 ```
 b. Logging Out:
 ```
-```
-Figure 8
-```
+ <p><img class="img-responsive center-block" src="report/figure8.PNG" alt="figure8"></p>
 
 ### Storyboards of tasks:
 
