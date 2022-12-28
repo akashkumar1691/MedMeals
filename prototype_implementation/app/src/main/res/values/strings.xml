@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">final_project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- home screen strings -->
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="doc_portal">Doctor Portal</string>
+    <string name="pat_portal">Patient Portal</string>
+    <string name="next">Next</string>
+
+    <!-- create account page - select account type -->
+    <string name="select_account_type">Select Account Type</string>
+    <string name="doctor_account_type">Doctor</string>
+    <string name="patient_account_type">Patient</string>
+
+    <!-- login screen strings -->
+    <string name="login_submit">Submit</string>
+    <string name="enter_user">Enter Username</string>
+    <string name="enter_p_user">Enter Patient Username</string>
+    <string name="enter_pass">Enter Password</string>
+
+</resources>
