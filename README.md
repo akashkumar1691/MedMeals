@@ -1,4 +1,4 @@
-**Group 14:** Mobile Medics
+**Group:** Mobile Medics
 
 **Group Members:** Shefali Bhatia, Priya Jindal, Vandana Keshavamurthy, Akash Kumar
 
@@ -65,9 +65,8 @@ physicians, categorized by the name of the doctor that completed their diagnosis
 ```
 Before (Figma) After (Application)
 ```
-```
-Figure 1
-```
+ <p><img class="img-responsive center-block" src="report/figure1.PNG" alt="figure1"></p>
+
 - Change: We display a compiled list of all foods to avoid rather than groupings of foods to avoid
     separated by each doctor who provided recommendations. _(patient portal: foods to avoid)_
     Rationale: The list of foods to avoid can become repetitive in the probable event that several
@@ -78,9 +77,8 @@ Figure 1
 ```
 Before (Figma) After (Application)
 ```
-```
-Figure 2
-```
+ <p><img class="img-responsive center-block" src="report/figure2.PNG" alt="figure2"></p>
+ 
 - Change: The pages for the doctor form are labeled with “page 1 of 2” or “page 2 of 2” to
     indicate which of the two page doctor form a doctor user is on. _(doctor portal: form pages)_
     Rationale: Users were unsure whether the two pages were for the doctor form since they
@@ -89,9 +87,8 @@ Figure 2
 ```
 Before (Figma) After (Application)
 ```
-```
-Figure 3
-```
+ <p><img class="img-responsive center-block" src="report/figure3.PNG" alt="figure3"></p>
+ 
 2. Changes made for maintaining consistency
     - Change: Added “Patient Portal” text on all Patient portal pages _(patient portal: all pages)_
        Rationale: In our user testing, it was observed that users were confused whether they were
@@ -102,9 +99,8 @@ Figure 3
 ```
 Before (Figma) After (Application)
 ```
-```
-Figure 4
-```
+ <p><img class="img-responsive center-block" src="report/figure4.PNG" alt="figure4"></p>
+ 
 - Change: A back button is present at the top right corner of all pages in the app.
     Rationale: Additions such as the back button made to support consistency in our design and
     afford the users with greater flexibility to navigate through the portal.
@@ -117,18 +113,15 @@ Figure 4
 ```
 Before (Figma) After (Application)
 ```
-```
-Figure 5
-```
+ <p><img class="img-responsive center-block" src="report/figure5.PNG" alt="figure5"></p>
+
 ### Sketches for unimplemented portions of the interface:
 
 On the first page of the Doctor Portal page, there is a button/option to “View All Patients” which we did
 not implement as it is an added functionality more than integral functionality for our app. A rough
 sketch is depicted below:
 
-```
-Figure 6
-```
+ <p><img class="img-responsive center-block" src="report/figure6.PNG" alt="figure6"></p>
 
 On all our portal pages, we have an account icon in the top right corner. Hypothetically, this would
 lead to a dialog box that provides the option to logout or go to an account information page. We did
@@ -138,9 +131,8 @@ it would’ve looked something like this:
 ```
 a. Account Information Page:
 ```
-```
-Figure 7
-```
+ <p><img class="img-responsive center-block" src="report/figure7.PNG" alt="figure7"></p>
+
 ```
 b. Logging Out:
 ```
@@ -158,6 +150,8 @@ recommendations her doctors made.
 
 ### Figure 9: Task 1 Storyboard
 
+ <p><img class="img-responsive center-block" src="report/figure9.PNG" alt="figure9"></p>
+
 
 Task #2: Doctor fills out form for new patient
 
@@ -165,6 +159,8 @@ Scenario: Dr. Perez has a patient that has been recently diagnosed with diabetes
 adhere to their dietary restrictions due to forgetting about them in their day to day life.
 
 ### Figure 10: Task 2 Storyboard
+
+ <p><img class="img-responsive center-block" src="report/figure10.PNG" alt="figure10"></p>
 
 
 Task #3: New patient creates an account and views their doctor notes
