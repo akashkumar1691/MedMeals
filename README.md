@@ -136,7 +136,6 @@ Scenario: Susan is at a new grocery store and wants to buy a frozen meal for din
 cross reference the list of foods to avoid in the MedMeals app to make sure she follows the
 recommendations her doctors made.
 
-### Figure 9: Task 1 Storyboard
 
  <p><img class="img-responsive center-block" src="report/figure9.PNG" alt="figure9"></p>
 
@@ -146,7 +145,7 @@ Task #2: Doctor fills out form for new patient
 Scenario: Dr. Perez has a patient that has been recently diagnosed with diabetes who is struggling to
 adhere to their dietary restrictions due to forgetting about them in their day to day life.
 
-### Figure 10: Task 2 Storyboard
+
 
  <p><img class="img-responsive center-block" src="report/figure10.PNG" alt="figure10"></p>
 
@@ -157,7 +156,8 @@ Scenario: Susan received a message from her doctor that she was diagnosed with a
 requiring dietary restrictions. The doctor submitted her diagnosis and further details on the application
 MedMeals and she wants to check the doctor’s notes.
 
-### Figure 11: Task 3 Storyboard
+
+ <p><img class="img-responsive center-block" src="report/figure11.PNG" alt="figure11"></p>
 
 
 ## Prototype overview
